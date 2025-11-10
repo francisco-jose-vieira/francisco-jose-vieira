@@ -63,6 +63,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/francisco-jose-vieira/francisco-jose-vieira/output/snake.svg" alt="Snake animation" />
 
 ###
